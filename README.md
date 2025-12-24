@@ -11,7 +11,9 @@ This project automates the collection and analysis of Statcast data to support B
 * **Performance Metrics:** Calculates advanced metrics such as **Whiff%** per pitch type and velocity differentials.
 * **Strategic Visualization:** Includes Pitch Movement profiles and Strike Zone heatmaps to identify pitcher trends and "tunneling" opportunities.
 
+
 ![Tyler Glasnow Pitch Movement Profile](movement_plot.png)
+
 
 ---
 
