@@ -11,6 +11,11 @@ This project automates the collection and analysis of Statcast data to support B
 * **Performance Metrics:** Calculates advanced metrics such as **Whiff%** per pitch type and velocity differentials.
 * **Strategic Visualization:** Includes Pitch Movement profiles and Strike Zone heatmaps to identify pitcher trends and "tunneling" opportunities.
 
+### **Strategic Analysis of Visuals**
+
+* **Pitch Tunneling:** The movement plot shows that the Fastball and Slider share a similar initial trajectory before diverging, which is a key metric for inducing swings-and-misses.
+* **Targeted Command:** The heatmap reveals a high concentration of fastballs at the top of the zone, a tactic frequently used by the Dodgers to exploit high-spin-rate "rise" and generate pop-ups.
+
 <p align="center">
   <img src="movement-plot.png" width="48%" />
   <img src="strike-zone-heatmap.png" width="48%" />
