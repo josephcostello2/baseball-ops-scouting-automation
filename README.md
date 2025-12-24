@@ -12,6 +12,7 @@ This project automates the collection and analysis of Statcast data to support B
 * **Strategic Visualization:** Includes Pitch Movement profiles and Strike Zone heatmaps to identify pitcher trends and "tunneling" opportunities.
 
 <p align="center"> <img src="movement-plot.png" width="800"> </p>
+![Strike Zone Heatmap](strike-zone-heatmap.png)
 
 ---
 
